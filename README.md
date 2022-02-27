@@ -32,7 +32,7 @@ Please go to our [discussion forum](https://github.com/spencerwooo/onedrive-verc
 
 *If you happen to like this project, please give it a star!* :3
 
-*If you really, really like this project, please send money! -> [Sponsors 🤑 and donations 💰](https://ovi.swo.moe/sponsor)*
+*If you really, reall project, please send money! -> [Sponsors 🤑 and donations 💰](https://ovi.swo.moe/sponsor)*
 
 ## Demo
 
