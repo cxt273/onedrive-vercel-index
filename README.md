@@ -138,10 +138,7 @@ Open-source is hard! If you happen to like this project and want me to keep goin
 
 ### Sponsors
 
-*Your name will appear here if you sponsor or donate 😀*
-
----
-
+*Your name will appear here if you sponsor or donat
 **onedrive-vercel-index** ©Spencer Woo. Released under the MIT License.
 
 Authored and maintained by Spencer Woo.
